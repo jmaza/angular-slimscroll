@@ -12,7 +12,7 @@
     "slimscroll"
   ],
   "license": "MIT",
-  "homepage": "https://github.com/ziscloud/angular-slimscroll",
+  "homepage": "https://github.com/jmaza/angular-slimscroll",
   "ignore": [
     "**/.*",
     "node_modules",
